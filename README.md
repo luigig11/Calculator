@@ -1,8 +1,8 @@
 # Calculator
-Simple ios-style calculator
+Basic ios-style calculator
 
 ## Table of contents
-* [General info] (#general-info)
+* [General-info] (#general-info)
 * [Technologies] (#technologies)
 
 ## General info
